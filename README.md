@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ripudaman</h1>
 <h3 align="center">Software Engineering Student @ Centennial College</h3>
 
-- 🌱 I’m currently learning **NodeJs and Data Structures and Algorithms**
+- 🌱 I’m currently learning **ReactJs and Data Structures and Algorithms**
 
 - 💬 Ask me about **Javascript, C#**
 
