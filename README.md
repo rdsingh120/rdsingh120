@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ripudaman</h1>
 <h3 align="center">Software Engineering Student @ Centennial College</h3>
 
-- 🌱 I’m currently learning **ReactJS and Data Structures and Algorithms**
+- 🌱 I’m currently learning **SpringBoot and Data Structures and Algorithms**
 
-- 💬 Ask me about **Javascript, C#**
+- 💬 Ask me about **MERN Stack, Java**
 
 - 📫 How to reach me **rdsingh120@gmail.com**
 
