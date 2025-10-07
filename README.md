@@ -6,7 +6,7 @@
 - 💬 Ask me about **MERN Stack, Java**
 
 - 📫 How to reach me **rdsingh120@gmail.com**
-- Checkout my portfolio -> rdsingh.dev/
+- Checkout my portfolio -> https://rdsingh.dev/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
