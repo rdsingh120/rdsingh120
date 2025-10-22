@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m a Software Engineering Student @ Centennial College<br>🌱 I’m currently learning Spring and AWS<br>💬 Ask me about MERN Stack<br>✨ Checkout my portfolio ➡️ rdsingh.dev
+💻 I’m a Software Engineering Student @ Centennial College<br>🌱 I’m currently learning Spring and AWS<br>💬 Ask me about MERN Stack<br>✨ Checkout my portfolio ➡️ [rdsingh.dev](https://www.rdsingh.dev/)
 
 
 ## 🌐 Socials:
